@@ -1,0 +1,3 @@
+https://github.com/buckyroberts/Source-Code-from-Tutorials/blob/master/Other/SampleMySQLData/store.sql
+https://www.youtube.com/watch?v=O4SIpJMH7po&list=PL32BC9C878BA72085&index=3
+http://www.mediafire.com/file/e8jj5n64o9db1i6/MySQL_Files.zip/file
